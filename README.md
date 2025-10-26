@@ -7,7 +7,7 @@ deskripsi karakter:
 burung (manuk) yang terispirasi dari logo twiter versi lama, dimana memiliki benruk yang sederhana dan mudah dibuat di Opencv 
 
  Screenshot
-![Final](output/karakter.png)
+![Final](output/burung.png)
 ![Final](output/rotate.png)
 ![Final](output/resize.png)
 ![Final](output/translate.png)
